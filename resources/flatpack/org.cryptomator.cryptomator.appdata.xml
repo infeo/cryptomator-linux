@@ -63,8 +63,9 @@
             <image width="652" height="470">https://github.com/infeo/cryptomator-linux/tree/master/resources/common/cryptomator-screenshot_unlockedVault.png</image>
             <caption>View of an unlocked with the graph of read- and write-activity on this vault.</caption>
         </screenshot>
-
     </screenshots>
+
+    <content_rating type="oars-1.0" />
 
     <developer_name>Skymatic</developer_name>
 
