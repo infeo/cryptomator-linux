@@ -5,7 +5,7 @@
     <metadata_license>FSFAP</metadata_license>
     <project_license>GPL-3.0-or-later</project_license>
     <name>Cryptomator</name>
-    <summary>Multi-platform client-side encryption tool optimized for cloud storages.</summary>
+    <summary>Multi-platform client-side encryption tool optimized for cloud storages</summary>
 
     <description>
         Multi-platform transparent client-side encryption of your files in the cloud.
@@ -57,11 +57,11 @@
         <!--TODO: the links must be changed when repository is merged into cryptomator/cryptomator-linux -->
         <screenshot type="default">
             <image width="652" height="470">https://github.com/infeo/cryptomator-linux/tree/master/resources/common/cryptomator-screenshot_overview.png</image>
-            <caption>Overview of your created vaults.</caption>
+            <caption>Overview of your created vaults</caption>
         </screenshot>
         <screenshot>
             <image width="652" height="470">https://github.com/infeo/cryptomator-linux/tree/master/resources/common/cryptomator-screenshot_unlockedVault.png</image>
-            <caption>View of an unlocked with the graph of read- and write-activity on this vault.</caption>
+            <caption>Unlocked vault with the graph of its I/O-activity</caption>
         </screenshot>
     </screenshots>
 
