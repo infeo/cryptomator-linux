@@ -53,6 +53,19 @@
 
     <launchable type="desktop-id">org.cryptomator.cryptomator.desktop</launchable>
 
+    <screenshots>
+        <!--TODO: the links must be changed when repository is merged into cryptomator/cryptomator-linux -->
+        <screenshot type="default">
+            <image width="652" height="470">https://github.com/infeo/cryptomator-linux/tree/master/resources/common/cryptomator-screenshot_overview.png</image>
+            <caption>Overview of your created vaults.</caption>
+        </screenshot>
+        <screenshot>
+            <image width="652" height="470">https://github.com/infeo/cryptomator-linux/tree/master/resources/common/cryptomator-screenshot_unlockedVault.png</image>
+            <caption>View of an unlocked with the graph of read- and write-activity on this vault.</caption>
+        </screenshot>
+
+    </screenshots>
+
     <developer_name>Skymatic</developer_name>
 
     <update_contact>armin.schrenk@zoho.eu</update_contact>
