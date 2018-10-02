@@ -46,15 +46,6 @@
         This project is dual-licensed under the GPLv3 for FOSS projects as well as a commercial license for independent software vendors and resellers. If you want to modify this application under different conditions, feel free to contact our support team.
     </description>
 
-    <categories>
-        <category>System</category>
-        <category>Utility</category>
-        <category>FileTools</category>
-        <category>Security</category>
-        <category>Filesystem</category>
-        <category>Java</category>
-    </categories>
-
     <url type="homepage">http://cryptomator.org</url>
     <url type="bugtracker">https://github.com/cryptomator/cryptomator/issues</url>
     <url type="faq">https://community.cryptomator.org/c/kb/faq</url>
