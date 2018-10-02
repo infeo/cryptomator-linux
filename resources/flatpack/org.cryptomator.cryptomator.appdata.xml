@@ -69,6 +69,7 @@
 
     <developer_name>Skymatic</developer_name>
 
+    <!--TODO: which mail address should be used -->
     <update_contact>armin.schrenk@zoho.eu</update_contact>
 
     <releases>
