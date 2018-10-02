@@ -55,6 +55,8 @@
 
     <developer_name>Skymatic</developer_name>
 
+    <update_contact>armin.schrenk@zoho.eu</update_contact>
+
     <releases>
         <release version="1.3.2" date="2017-11-25" urgency="medium">
         </release>
