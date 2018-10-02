@@ -7,8 +7,6 @@
     <name>Cryptomator</name>
     <summary>Multi-platform client-side encryption tool optimized for cloud storages.</summary>
 
-    <icon type="stock">org.cryptomator.cryptomator</icon>
-
     <description>
         Multi-platform transparent client-side encryption of your files in the cloud.
 
