@@ -2,14 +2,12 @@
 <!-- Copyright 2018 Armin Schrenk <armin.schrenk@zoho.eu> -->
 <component type="desktop-application">
     <id>org.cryptomator.cryptomator</id>
-    <metadata_license>TODO</metadata_license>
+    <metadata_license>FSFAP</metadata_license>
     <project_license>GPL-3.0-or-later</project_license>
     <name>Cryptomator</name>
     <summary>Multi-platform client-side encryption tool optimized for cloud storages.</summary>
 
-    <icon>
-        TODO
-    </icon>
+    <icon type="stock">org.cryptomator.cryptomator</icon>
 
     <description>
         Multi-platform transparent client-side encryption of your files in the cloud.
@@ -65,17 +63,8 @@
 
     <launchable type="desktop-id">org.cryptomator.cryptomator.desktop</launchable>
 
-    <screenshots>
-        <screenshot type="default">
-            <caption>Running Cryptomator</caption>
-            <image>TODO</image>
-        </screenshot>
-    </screenshots>
-
     <releases>
-        <release version="1.4.0_beta2" date="2018-04-12" urgency="low">
-            <size type="download">TODO</size>
-            <size type="installed">TODO</size>
+        <release version="1.3.2" date="2017-11-25" urgency="medium">
         </release>
     </releases>
 </component>
